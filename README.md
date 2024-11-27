@@ -30,7 +30,7 @@ Estoy desarrollando una versión web del juego clásico **Pasapalabra**. Es una 
 
 ## 📈 Estadísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuismrtn&layout=compact&theme=github_dark)](https://github.com/luuismrtn) &nbsp;&nbsp;&nbsp; [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuismrtn&show_icons=true&hide_title=true&theme=github_dark)](https://github.com/luuismrtn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luuismrtn&layout=compact&theme=github_dark&locale=es)](https://github.com/luuismrtn) &nbsp;&nbsp;&nbsp; [![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luuismrtn&show_icons=true&hide_title=true&theme=github_dark&locale=es)](https://github.com/luuismrtn)
 
 
 
