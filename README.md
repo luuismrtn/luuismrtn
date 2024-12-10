@@ -25,7 +25,7 @@ Soy un programador en constante aprendizaje y estudiante en la **Universidad Pol
 ### 1. **42Cursus Projects**  
 Actualmente me estoy centrando mucho en **42 Madrid**, donde puedes ver todos mis proyectos y su progreso en mi repositorio: [42Cursus Projects](https://github.com/luuismrtn/42Cursus).
 
-### 2. **Pasapalabra Web**  
+### 2. **Pasarosco**  
 Estoy desarrollando una versión web del juego clásico **Pasapalabra**. Es una aplicación interactiva en la que los usuarios pueden jugar al tradicional juego de palabras. [Prueba la demo aquí](https://pasapalabra-pro.vercel.app/home).
 
 ## 📈 Estadísticas
