@@ -8,7 +8,7 @@ Soy un programador en constante aprendizaje y estudiante en la **Universidad Pol
   - **Java**: Conocimientos avanzados en desarrollo de aplicaciones y manejo de colecciones.
   - **C**: Experiencia en proyectos de bajo nivel, gestión de memoria y sistemas operativos.
   - **HTML/CSS**: Desarrollo de interfaces web responsive y maquetación.
-  - **JavaScript**: Creación de interactividad en páginas web y desarrollo de proyectos web dinámicos.
+  - **TypeScript**: Creación de interactividad en páginas web y desarrollo de proyectos web dinámicos.
   
 - **Herramientas**:
   - **Git**: Uso avanzado de control de versiones en proyectos colaborativos.
@@ -38,8 +38,8 @@ Estoy desarrollando una versión web del juego clásico **Pasapalabra**. Es una 
 ## 📫 Contáctame
 
 - 📧 **Correo**: [luismartingarcia4@gmail.com](mailto:luismartingarcia4@gmail.com)
-- 🌐 **Sitio web**: [Portfolio](https://luuismrtn.github.io/Portfolio-de-Luis/)
-- 💼 **LinkedIn**: [Luis Martín en LinkedIn](https://www.linkedin.com/in/luis-mart%C3%ADn-garc%C3%ADa-129450272/)
+- 🌐 **Sitio web**: [Portfolio](https://luismartingarcia.vercel.app/)
+- 💼 **LinkedIn**: [Luis Martín en LinkedIn](https://www.linkedin.com/in/luis-martin-garcia/)
 - 🧑‍💻 **GitHub**: [@luuismrtn](https://github.com/luuismrtn)
 
 ## 📚 Aprendizaje continuo
@@ -50,7 +50,6 @@ Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías
 
 ## 🎯 Objetivos a corto plazo
 
-- Crear un portfolio actualizado y mejorado.
 - Finalizar todos los proyectos de **42 Madrid** con el máximo rendimiento.
 - Mejorar mis habilidades en desarrollo de aplicaciones full-stack con React.
 - Contribuir a proyectos open-source y aprender de la comunidad global de desarrolladores.
