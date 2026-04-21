@@ -48,12 +48,6 @@ Estoy constantemente mejorando mis habilidades y aprendiendo nuevas tecnologías
 - **Frameworks**: React, Vite, TailwindCSS.
 - **C y sistemas operativos**: Avanzando en la comprensión de la arquitectura de sistemas y optimización de código.
 
-## 🎯 Objetivos a corto plazo
-
-- Finalizar todos los proyectos de **42 Madrid** con el máximo rendimiento.
-- Mejorar mis habilidades en desarrollo de aplicaciones full-stack con React.
-- Contribuir a proyectos open-source y aprender de la comunidad global de desarrolladores.
-
 ---
 
-> **«Tanto si crees que puedes hacerlo, como si no, en los dos casos tienes razón.» – Henry Ford.** 🚀
+> **«Tanto si crees que puedes hacerlo, como si no, en los dos casos tienes razón.» – Henry Ford.**
